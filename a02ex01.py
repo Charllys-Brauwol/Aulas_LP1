@@ -40,6 +40,6 @@ number_two = 2
 number_three = 10
 number_four = 1
 
-result = (((number_one ** 4) + number_two) + (number_three / number_four))
+result = ((((number_one ** 4) + number_two)**4) + (number_three / number_four))
 
 print (f'O resultado é: {result}\n')

@@ -31,11 +31,10 @@ várias linhas. '''
 
 #Saída de dados - print
     '''
-    OBS: estudar mais sobre a função format
+    OBS: Estudar mais sobre a função format
     '''
     print ("Meu nome é: ", nome)
     print ("Meu nome é {}".format(nome))
     #fstring
     print(f"Meu nome é {nome} e eu tenho {idade} anos")
-    
     

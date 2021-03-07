@@ -3,6 +3,7 @@
 
 
 
+
 #Definição de palavras compostas
     '''
      minhaNotaSemanal = 7.0 - Camel Case

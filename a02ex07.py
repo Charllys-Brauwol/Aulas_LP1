@@ -1,7 +1,7 @@
 '''7 - Escreva uma função que receba a idade do usuário e indique 
 se ele pode ou não encher a cara de cachaça.'''
 
-age = int(input('Qual sua idade?\n'))
+age = int(input('Vamos saber se você já pode beber.\nQual sua idade?\n'))
 
 if (age >= 18):
     print ('Parabéns! Você pode escolher.')

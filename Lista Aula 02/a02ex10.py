@@ -2,3 +2,4 @@
 então 3 quilômetros a uma passo mais rápido(7min12s por quilômetro) 
 e 1 quilômetro no mesmo passo usado em primeiro lugar, 
 que horas chego em casa para o café da manhã?'''
+

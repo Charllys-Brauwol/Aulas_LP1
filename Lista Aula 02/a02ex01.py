@@ -4,6 +4,7 @@
 (9⁴ + 2) x 6 -1
 (9⁴ + 2)⁴ + ( 10 / 1)'''
 
+
 print ('Primeira expressão: 10 + 10 x 30')
 
 number_one = 10

@@ -8,3 +8,9 @@ Caso o número não seja apocalíptico, retorne a seguinte mensagem: "Está tudo
 pode continuar pecando".
 
 Dica: Procure na documentação pelos métodos find() e index().'''
+
+str1 = int(input("Digite uma sequencia de números:\n"))
+str2 = 666
+
+def capeta(str1, str2):
+    

@@ -2,3 +2,9 @@
 letras em seus respectivos números posicionais no alfabeto: 
 Por exemplo (a = 1, b =2, c =3).'''
 
+import string
+
+
+letra = list(string.ascii_lowercase[])
+
+print (f'{ascii_lowercasetring.[]}')

@@ -8,4 +8,3 @@ def morgan(P, Q):
     
 x= morgan(True,False)
 print(x)
-
